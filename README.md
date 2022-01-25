@@ -1,3 +1,5 @@
+![omega](https://user-images.githubusercontent.com/78202370/151009494-ffc5dd9a-7f13-48d6-b8ca-a78b85d2b28f.png)
+
 # omega
 
 ## Project setup
@@ -22,4 +24,3 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-![omega](https://user-images.githubusercontent.com/78202370/151009494-ffc5dd9a-7f13-48d6-b8ca-a78b85d2b28f.png)
